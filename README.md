@@ -3,6 +3,11 @@
 This project is for demonstration protractor basic tests for application with
 "authentication" behavior.
 
+For creating application with authentication behavior tutorial please look
+[here](http://jasonwatmore.com/post/2016/08/16/angular-2-jwt-authentication-example-tutorial)
+
+Comments or issues are wellcomed
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app
